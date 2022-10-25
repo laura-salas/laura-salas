@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laura-salas
-- 👀 I’m interested in NLP & 3D Modelling!
-- 📫 How to reach me: linkedin! https://linkedin.com/in/~ls
+👋 Hi! I’m @laura-salas
+👀 I’m interested in NLP, including natural lnaguage parsing - which I practice mostly with discord bots - as well as general full-stack development!
+📫 How to reach me: linkedin! https://linkedin.com/in/~ls
 
 <!---
 laura-salas/laura-salas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
