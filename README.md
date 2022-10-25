@@ -1,5 +1,5 @@
-👋 Hi! I’m @laura-salas <br/>
-👀 I’m interested in NLP, including natural lnaguage parsing - which I practice mostly with discord bots - as well as general full-stack development!
+👋 Hi! I’m @laura-salas! <br/>
+👀 I’m interested in NLP, including natural lnaguage parsing - which I practice mostly with discord bots - as well as general full-stack development!<br/>
 📫 How to reach me: linkedin! https://linkedin.com/in/~ls
 
 <!---
